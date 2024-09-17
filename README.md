@@ -5,7 +5,6 @@
 ## Request data
 
 ```json
-test
 {
   "from": "en_GB",
   "to": "fr_FR",
